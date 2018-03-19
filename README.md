@@ -26,4 +26,4 @@ Adress: https://www.youtube.com/user/alcancetime
 Assinatura: Hz7AthVxlzks/xdyLxgGumxrmE0qg7VU05UUvEhNg8f8JDr9M72U7V0ZBXd/R8RpdTLuMRTtB0wGUDLISOt+65A=
 
 ## Extras
-Além disso qualquer documento produzido por mim é assinado com minha chave PGP: `02F16E9B88C50538D642C8DC3C5D7865A488FB3C`verifique sempre o arquivo de assinatura, o SHA56 dos endereços das redes sociais correspondem ao seguinte HASH: `da3f24675d6e224ce7c2a571085387f16704e641644f39b51554bdcda877b8f9`, a lista dos endereços estão em uma única linha apenas com espaço entre eles.
+Além disso qualquer documento produzido por mim é assinado com minha chave PGP: `02F16E9B88C50538D642C8DC3C5D7865A488FB3C`verifique sempre o arquivo de assinatura, o SHA256 dos endereços das redes sociais correspondem ao seguinte HASH: `da3f24675d6e224ce7c2a571085387f16704e641644f39b51554bdcda877b8f9`, a lista dos endereços estão em uma única linha apenas com espaço entre eles.
