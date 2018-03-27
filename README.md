@@ -1,5 +1,5 @@
 # socialsignature Tayrone Santos
-Estas são assinaturas das minhas redes sociais, todas são assinadas com o endereço bitcoin `1TaygiBofqZWhjN23fqLhVRL5pMGMsaVE`, então por medida de segurança sempre confira se o perfil que voce está trocando informações é realmente um perfil verdadeiro.
+Estas são assinaturas das minhas redes sociais, todas são assinadas com o endereço bitcoin `1TaygiBofqZWhjN23fqLhVRL5pMGMsaVE`, então por medida de segurança sempre confira se o perfil que você está trocando informações é realmente um perfil verdadeiro.
 
 ## Facebook
 Address: https://www.facebook.com/jtayronesantos
